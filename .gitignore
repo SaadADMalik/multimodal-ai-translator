@@ -12,3 +12,7 @@ data/audio/common_voice/*/*.tar.gz
 !data/audio/common_voice/*/test.tsv
 node/  # Add if "node" is unintended
 Folder structure.txt
+*.pyc
+__pycache__
+*.log
+path.txt

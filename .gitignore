@@ -1,18 +1,16 @@
 __pycache__/
 *.pyc
+*.log
+path.txt
 node_modules/
 .env
 .env.example
-venv/  # Already added by you
+venv/
 data/audio/common_voice/*/clips/
 data/audio/common_voice/*/*.tar
 data/audio/common_voice/*/*.tar.gz
-!data/audio/common_voice/*/validated.tsv
+!data/audio/common_voice/*/validated_sentences.tsv
 !data/audio/common_voice/*/train.tsv
 !data/audio/common_voice/*/test.tsv
-node/  # Add if "node" is unintended
+test_audio/  # Add this line
 Folder structure.txt
-*.pyc
-__pycache__
-*.log
-path.txt

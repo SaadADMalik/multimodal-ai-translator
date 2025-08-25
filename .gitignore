@@ -14,3 +14,4 @@ data/audio/common_voice/*/*.tar.gz
 !data/audio/common_voice/*/test.tsv
 test_audio/  # Add this line
 Folder structure.txt
+test_audio/
